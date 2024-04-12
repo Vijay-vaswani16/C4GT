@@ -909,3 +909,24 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Vijay Vaswani</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Vijay-vaswani16</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/vijay-vaswani-18398a204/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>IIEST Shibpur</td>
+  </tr>
+</table>
+
+
+
